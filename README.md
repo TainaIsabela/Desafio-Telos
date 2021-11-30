@@ -1,7 +1,7 @@
 
 ## Desafio Técnico - Télos
 
-O desafio em questão consistia em elaborar um crud em NestJS utilizando MySQL como banco de dados.
+O desafio em questão consistia em elaborar uma API CRUD em NestJS utilizando MySQL como banco de dados.
 
 ## Clonar Repositório
 
